@@ -21,16 +21,16 @@ Expected Graduation: **May 2026**
 
 **Relevant Coursework:**
 - Data Structures and Algorithms  
-- Fundamentals of Software Engineeringing 
+- Fundamentals of Software Engineering
 - Computer Organization and Architecture  
 - Operating Systems
-- Discrete Mathmatics
+- Discrete Mathematics
 - Linear Algebra
 
 ## Technical Skills
 
 **Programming Languages:**  
-C++, Python, Java, JavaScript
+C++, Python, Java, JavaScript , HTML, CSS
 
 **Development Tools:**  
 Git / GitHub, Linux, Visual Studio Code

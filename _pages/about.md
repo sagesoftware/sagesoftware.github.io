@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science student at the University of Houston with a strong interest in software development and systems oriented programming. I enjoy building reliable, well structured applications and designing efficient algorithmic solutions to real world problems.
+I am a Computer Science student at the University of Houston with a focus on AI/ML engineering, systems programming, and full-stack development. I enjoy building things that are technically interesting and actually work — from LLM-powered applications to GPU-accelerated systems.
 
-Through my coursework and projects, I have developed a solid foundation in data structures, software engineering principles, and low-level system concepts. I value clean code, clear documentation, and writing software that is both maintainable and efficient.
+My recent work centers on applied AI: building production-ready tools that use large language models, retrieval-augmented generation, and vector search to solve real problems. I also have a strong background in low-level systems programming, parallel computing with CUDA, and computer graphics.
+
+I am graduating in May 2026 and actively looking for opportunities in AI/ML engineering and software development.
 
 ## Education
 
@@ -17,27 +19,22 @@ Through my coursework and projects, I have developed a solid foundation in data 
 *Bachelor of Science in Computer Science, Minor in Mathematics*  
 Expected Graduation: **May 2026**
 
-**Department:** [Computer Science, University of Houston](https://www.uh.edu/nsm/computer-science/)
-
 **Relevant Coursework:**
-- Data Structures and Algorithms  
-- Fundamentals of Software Engineering
-- Computer Organization and Architecture  
+- Machine Learning
 - Operating Systems
-- Discrete Mathematics
-- Linear Algebra
+- GPU / Parallel Computing
+- Data Structures & Algorithms
+- Computer Architecture
+- Interactive Computer Graphics
 
 ## Technical Skills
 
-**Programming Languages:**  
-C++, Python, Java, JavaScript , HTML, CSS
+**Languages:** Python, C++, Java, JavaScript, HTML/CSS, CUDA
 
-**Development Tools:**  
-Git / GitHub, Linux, Visual Studio Code
+**Frameworks & Tools:** PyTorch, OpenAI API, ChromaDB, FastAPI, React.js, SQLAlchemy, Docker, Streamlit, Pandas, Git/GitHub, Linux
 
-**Core Competencies:**  
-Software Development, Algorithm Design, Systems Programming, Debugging & Testing
+**Concepts:** LLMs, RAG, vector embeddings, AI safety & guardrails, prompt engineering, REST APIs, JWT authentication, GPU kernel optimization, parallel computing
 
 ---
 
-For more details about my experience, please see my [Resume](/files/Resume.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-pena-36951a274).
+For more details see my [Resume](https://sagesoftware.github.io/files/Resume.pdf) or connect on [LinkedIn](https://www.linkedin.com/in/ivan-pena-36951a274).

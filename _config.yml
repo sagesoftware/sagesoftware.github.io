@@ -23,7 +23,7 @@ repository               : "sagesoftware/academic-portfolio" # the GitHub reposi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpeg"
+  avatar           : "Profile.png"
   name             : "Ivan Pena"
   pronouns         : "he/him"  
   bio              : "Computer Science student at the University of Houston. Aspiring software developer with a passion for open-source projects and community collaboration."

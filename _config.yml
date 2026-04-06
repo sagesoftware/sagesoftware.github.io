@@ -26,7 +26,7 @@ author:
   avatar           : "Profile.png"
   name             : "Ivan Pena"
   pronouns         : "he/him"  
-  bio              : "Computer Science student at the University of Houston. Aspiring software developer with a passion for open-source projects and community collaboration."
+  bio              : "Computer Science student at University of Houston. Building production-ready AI/ML systems with LLMs, RAG, FastAPI, React, and Docker."
   location         : "Houston, TX"
   employer         : "University of Houston"
   uri              : "https://sagesoftware.github.io"
